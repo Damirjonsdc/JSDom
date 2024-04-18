@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Seo & Digital Marketing",
+    "price": 150,
+    "image": "https://i.dailymail.co.uk/i/pix/2013/08/09/article-2387814-1B37D00D000005DC-576_634x887.jpg",
+    "description": "футболка 1"
+  },
+  {
+    "id": 2,
+    "name": "Seo & Digital Marketing",
+    "price": 150,
+    "image": "https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/dc5a01134914391.61e9972905504.png",
+    "description": "футболка 2"
+  },
+  {
+    "id": 3,
+    "name": "Seo & Digital Marketing",
+    "price": 150,
+    "image": "https://avatars.mds.yandex.net/i?id=fd5337e553bea588522885704bc549363e6b61a8-12496730-images-thumbs&n=13",
+    "description": "футболка 3"
+  }
+]
